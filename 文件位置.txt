@@ -1,0 +1,2 @@
+"D:\Games\umamusume\umamusume_Data\Persistent\master"
+"D:\Games\umamusume\umamusume_Data\Persistent\meta"
